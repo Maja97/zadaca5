@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_about">About</string>
+
+    <string name="author_info">Maja Matijevic, 2019</string>
+    <string name="app_info">A handy application for keeping track of your daily tasks.</string>
+    <string name="buttonEditTask">Edit task</string>
+    <string name="sortByPriority">Sort by priority</string>
+    <string name="deleteAllTasks">Delete all tasks</string>
+    <string name="noTasks">There are no tasks to delete!</string>
+    <string name="alertDeleteAllTasks">Are you sure you want to delete all tasks?</string>
+    <string name="alertPositive">Delete</string>
+    <string name="alertNegative">Cancel</string>
+    <string name="alertDeleteAllTasksTitle">Deleting all tasks</string>
+    <string name="alertDeleteTaskTitle">Deleting the task</string>
+    <string name="alertDeleteTask">Are you sure you want to delete the task?</string>
+    <string name="editTaskHeadingText">Edit task:</string>
+</resources>
